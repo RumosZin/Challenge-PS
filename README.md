@@ -42,12 +42,9 @@
   + [SEA] 삼성 SW expert academy
   + [ETC] 그 외
  
-## ✅ 참여자와 진행도
+## ✅ 참여자와 주간 문제 풀이 현황
 
-
-<table><tr>         <td align="center"><a href="https://github.com/RumosZin"><img src="https://github.com/RumosZin.png" width="100px;"/><br /><sub><b>김윤진</b></sub>[![Commit Activity](https://img.shields.io/github/commit-activity/w/RumosZin/Challenge-PS)](https://github.com/RumosZin/Challenge-PS/graphs/commit-activity)
+<table><tr>         <td align="center"><a href="https://github.com/RumosZin"><img src="https://github.com/RumosZin.png" width="100px;"/><br /><sub><b>김윤진</b></sub></a><br></br> <img src = https://img.shields.io/github/commit-activity/w/RumosZin/Challenge-PS>
 </td>
-         <td align="center"><a href="https://github.com/gusah009"><img src="https://avatars.githubusercontent.com/u/26597702?v=4?s=100" width="100px;" alt=""/>         <br /><sub><b>gusah009</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/193"/></sub></a><br /></td>
-         <td align="center"><a href="https://github.com/wlwl1011"><img src="https://avatars.githubusercontent.com/u/62577565?v=4?s=100" width="100px;" alt=""/>         <br /><sub><b>wlwl1011</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/166"/></sub></a><br /></td>
-         <td align="center"><a href="https://github.com/kdh2996"><img src="https://avatars.githubusercontent.com/u/49389321?v=4?s=100" width="100px;" alt=""/>         <br /><sub><b>kdh2996</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/149"/></sub></a><br /></td>
+        
 </table><br />
